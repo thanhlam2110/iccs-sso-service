@@ -1,4 +1,4 @@
-# home-sso-service
+# sso-service
 This is Single-Sign On service
 ## Dependencies
 - go version go1.15.6 linux/amd64
